@@ -8,3 +8,8 @@ AWS CodeBuild now supports **managed self-hosted GitHub Action runners**, allowi
 - Run GitHub Actions workflow jobs natively within AWS infrastructure.
 
 This integration empowers teams to unify their development and delivery workflows, combining the flexibility of GitHub Actions with the scalability and security of AWS services.
+
+## Architecture overview
+<img width="1026" height="536" alt="Screenshot From 2025-07-19 17-06-00" src="https://github.com/user-attachments/assets/d2afd1cd-e882-4044-a64e-96997c0ee8ad" />
+
+
