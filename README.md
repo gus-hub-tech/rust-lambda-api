@@ -1,0 +1,10 @@
+# 🛠️ AWS CodeBuild Managed Self-Hosted GitHub Action Runners
+
+AWS CodeBuild now supports **managed self-hosted GitHub Action runners**, allowing you to build powerful CI/CD capabilities right beside your code and quickly implement a full build, test, and deploy pipeline.
+
+## 🚀 Key Features
+- Define GitHub Actions steps directly within any phase of a CodeBuild `buildspec.yml` file.
+- Use **self-hosted runners** to execute jobs initiated from GitHub.com on systems you deploy and manage.
+- Run GitHub Actions workflow jobs natively within AWS infrastructure.
+
+This integration empowers teams to unify their development and delivery workflows, combining the flexibility of GitHub Actions with the scalability and security of AWS services.
