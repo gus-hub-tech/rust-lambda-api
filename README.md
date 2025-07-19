@@ -12,4 +12,7 @@ This integration empowers teams to unify their development and delivery workflow
 ## Architecture overview
 <img width="1026" height="536" alt="Screenshot From 2025-07-19 17-06-00" src="https://github.com/user-attachments/assets/d2afd1cd-e882-4044-a64e-96997c0ee8ad" />
 
+# Step 1. Build a AWS Lambda Function
+## Building Rust Lambda functions with Cargo Lambda in AWS SAM
+
 
